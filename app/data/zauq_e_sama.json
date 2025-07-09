@@ -1,102 +1,105 @@
-[
-  {
-    "id": "course-001",
-    "title": "Raag Basics for Beginners",
-    "slug": "raag-basics-for-beginners",
-    "description": "Learn the core concepts of Raags and how they build the foundation of Indian classical music.",
-    "price": 2999,
-    "instructor": "Ustad Ali Khan",
-    "isFeatured": true,
-    "image": "https://zauqesama.com/images/raag-basics.jpg"
-  },
-  {
-    "id": "course-002",
-    "title": "Sufi Singing Techniques",
-    "slug": "sufi-singing-techniques",
-    "description": "Discover the soulful art of Sufi music with breathing techniques, vocal training, and lyrical depth.",
-    "price": 3499,
-    "instructor": "Madam Parveen Noor",
-    "isFeatured": true,
-    "image": "https://zauqesama.com/images/sufi-techniques.jpg"
-  },
-  {
-    "id": "course-003",
-    "title": "Understanding Taal (Rhythm)",
-    "slug": "understanding-taal",
-    "description": "Master the rhythmic cycles (taals) like Teentaal, Dadra, and Keherwa with practical exercises.",
-    "price": 2599,
-    "instructor": "Ustad Imran Warsi",
-    "isFeatured": false,
-    "image": "https://zauqesama.com/images/taal-course.jpg"
-  },
-  {
-    "id": "course-004",
-    "title": "Vocal Warmups & Breathing",
-    "slug": "vocal-warmups-and-breathing",
-    "description": "Essential warmups and breath control practices for stronger vocal delivery.",
-    "price": 1999,
-    "instructor": "Madam Hina Aslam",
-    "isFeatured": false,
-    "image": "https://zauqesama.com/images/vocal-warmups.jpg"
-  },
-  {
-    "id": "course-005",
-    "title": "Qawwali Foundations",
-    "slug": "qawwali-foundations",
-    "description": "Learn the structure and performance style of traditional Qawwali music.",
-    "price": 3999,
-    "instructor": "Ustad Rashid Niazi",
-    "isFeatured": true,
-    "image": "https://zauqesama.com/images/qawwali-course.jpg"
-  },
-  {
-    "id": "course-006",
-    "title": "Sur & Scale Identification",
-    "slug": "sur-and-scale-identification",
-    "description": "Learn to identify and reproduce sur (notes) accurately with exercises in pitch and ear training.",
-    "price": 2199,
-    "instructor": "Sir Ahmed Javed",
-    "isFeatured": false,
-    "image": "https://zauqesama.com/images/sur-scale.jpg"
-  },
-  {
-    "id": "course-007",
-    "title": "Art of Sama (Spiritual Listening)",
-    "slug": "art-of-sama",
-    "description": "Explore the spiritual concept of Sama in Sufi tradition and how to experience music as devotion.",
-    "price": 2799,
-    "instructor": "Sheikh Ameer Faizi",
-    "isFeatured": true,
-    "image": "https://zauqesama.com/images/sama-art.jpg"
-  },
-  {
-    "id": "course-008",
-    "title": "Harmonium for Beginners",
-    "slug": "harmonium-for-beginners",
-    "description": "Hands-on training for harmonium playing including scales, chords, and raag practice.",
-    "price": 2999,
-    "instructor": "Ustad Rehan Siddiqui",
-    "isFeatured": false,
-    "image": "https://zauqesama.com/images/harmonium-course.jpg"
-  },
-  {
-    "id": "course-009",
-    "title": "Voice Modulation & Expression",
-    "slug": "voice-modulation-and-expression",
-    "description": "Control your voice with emotion, volume, and tone in spiritual and classical singing.",
-    "price": 2699,
-    "instructor": "Madam Shehla Qamar",
-    "isFeatured": false,
-    "image": "https://zauqesama.com/images/voice-modulation.jpg"
-  },
-  {
-    "id": "course-010",
-    "title": "Live Recitation Techniques (Naat/Nasheed)",
-    "slug": "live-recitation-techniques",
-    "description": "Train for stage-ready performance of Naats and Nasheed with proper tone and adab.",
-    "price": 3299,
-    "instructor": "Qari Zubair Ahmed",
-    "isFeatured": true,
-    "image": "https://zauqesama.com/images/naat-nasheed.jpg"
-  }
-]
+
+{
+  "courses": [
+    {
+      "id": "course-001",
+      "title": "Raag Basics for Beginners",
+      "slug": "raag-basics-for-beginners",
+      "description": "Learn the core concepts of Raags and how they build the foundation of Indian classical music.",
+      "price": 2999,
+      "instructor": "Ustad Ali Khan",
+      "isFeatured": true,
+      "image": "/images/basic.webp"
+    },
+    {
+      "id": "course-002",
+      "title": "Sufi Singing Techniques",
+      "slug": "sufi-singing-techniques",
+      "description": "Discover the soulful art of Sufi music with breathing techniques, vocal training, and lyrical depth.",
+      "price": 3499,
+      "instructor": "Madam Parveen Noor",
+      "isFeatured": true,
+      "image": "/images/sufi-singing.jpg"
+    },
+    {
+      "id": "course-003",
+      "title": "Understanding Taal (Rhythm)",
+      "slug": "understanding-taal",
+      "description": "Master the rhythmic cycles (taals) like Teentaal, Dadra, and Keherwa with practical exercises.",
+      "price": 2599,
+      "instructor": "Ustad Imran Warsi",
+      "isFeatured": false,
+      "image": "https://zauqesama.com/images/taal-course.jpg"
+    },
+    {
+      "id": "course-004",
+      "title": "Vocal Warmups & Breathing",
+      "slug": "vocal-warmups-and-breathing",
+      "description": "Essential warmups and breath control practices for stronger vocal delivery.",
+      "price": 1999,
+      "instructor": "Madam Hina Aslam",
+      "isFeatured": true,
+      "image": "/images/vocal-warmups-breathing.avif"
+    },
+    {
+      "id": "course-005",
+      "title": "Qawwali Foundations",
+      "slug": "qawwali-foundations",
+      "description": "Learn the structure and performance style of traditional Qawwali music.",
+      "price": 3999,
+      "instructor": "Ustad Rashid Niazi",
+      "isFeatured": true,
+      "image": "/images/qawwali-foundations.jpg"
+    },
+    {
+      "id": "course-006",
+      "title": "Sur & Scale Identification",
+      "slug": "sur-and-scale-identification",
+      "description": "Learn to identify and reproduce sur (notes) accurately with exercises in pitch and ear training.",
+      "price": 2199,
+      "instructor": "Sir Ahmed Javed",
+      "isFeatured": false,
+      "image": "https://zauqesama.com/images/sur-scale.jpg"
+    },
+    {
+      "id": "course-007",
+      "title": "Art of Sama (Spiritual Listening)",
+      "slug": "art-of-sama",
+      "description": "Explore the spiritual concept of Sama in Sufi tradition and how to experience music as devotion.",
+      "price": 2799,
+      "instructor": "Sheikh Ameer Faizi",
+      "isFeatured": true,
+      "image": "/images/art-of-sama.jpg"
+    },
+    {
+      "id": "course-008",
+      "title": "Harmonium for Beginners",
+      "slug": "harmonium-for-beginners",
+      "description": "Hands-on training for harmonium playing including scales, chords, and raag practice.",
+      "price": 2999,
+      "instructor": "Ustad Rehan Siddiqui",
+      "isFeatured": false,
+      "image": "https://zauqesama.com/images/harmonium-course.jpg"
+    },
+    {
+      "id": "course-009",
+      "title": "Voice Modulation & Expression",
+      "slug": "voice-modulation-and-expression",
+      "description": "Control your voice with emotion, volume, and tone in spiritual and classical singing.",
+      "price": 2699,
+      "instructor": "Madam Shehla Qamar",
+      "isFeatured": false,
+      "image": "https://zauqesama.com/images/voice-modulation.jpg"
+    },
+    {
+      "id": "course-010",
+      "title": "Live Recitation Techniques (Naat/Nasheed)",
+      "slug": "live-recitation-techniques",
+      "description": "Train for stage-ready performance of Naats and Nasheed with proper tone and adab.",
+      "price": 3299,
+      "instructor": "Qari Zubair Ahmed",
+      "isFeatured": true,
+      "image": "/images/live-recitation.webp"
+    }
+  ]
+}
