@@ -3,6 +3,8 @@ import React from 'react'
 import HeroSection from './components/HeroSection'
 import FeaturedCourses from './components/FeaturedCourses'
 import WhyChooseUs from "./components/WhyChooseUs"
+import TestimonialCards from './components/TestimonialCards'
+import UpcomingWebinar from './components/UpcomingWebinar'
 
 const Home = () => {
   return (
@@ -10,6 +12,8 @@ const Home = () => {
       <HeroSection />
       <FeaturedCourses />
       <WhyChooseUs />
+      <TestimonialCards />
+      <UpcomingWebinar />
     </main>
   )
 }
